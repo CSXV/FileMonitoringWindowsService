@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+   logfile = C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+Installing service MyFirstWinService...
+Service MyFirstWinService has been successfully installed.
+Creating EventLog source MyFirstWinService in log Application...
+Committing assembly 'C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+   logfile = C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog

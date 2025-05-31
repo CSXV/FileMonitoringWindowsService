@@ -1,0 +1,7 @@
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.AssemblyReference.cache
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
